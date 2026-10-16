@@ -2,7 +2,7 @@
 
 ### 🚀 Live Demo Deployment: [green-map-ai-five.vercel.app](https://green-map-ai-five.vercel.app/)
 
-**GreenMap AI** is an advanced geospatial dashboard built for a clean-energy hackathon to streamline utility-scale solar farm land prospecting in Karnataka, India. The project solves the bottleneck of traditional site screening—shifting months of manual engineering guesswork into seconds of data-driven certainty.
+**GreenMap AI** is an advanced geospatial dashboard built for a clean-energy hackathon to streamline utility-scale solar farm land prospecting in Karnataka, India. The project solves the problem of traditional site screening—shifting months of manual engineering guesswork into seconds of data-driven certainty.
 
 Our application runs entirely **on-device on client infrastructure**, calculating complex environmental analytics and executing large language model inference **100% offline inside the browser**.
 
